@@ -21,6 +21,6 @@ export default {
     },
   },
   triggerEvents: {
-    clicked: { en: "When I gave it a click" },
+    clicked: "Clickety-clack",
   },
 };
