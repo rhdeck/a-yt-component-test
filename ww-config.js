@@ -20,7 +20,10 @@ export default {
       },
     },
   },
-  triggerEvents: {
-    clicked: "Clickety-clack",
-  },
+  triggerEvents: [
+    {
+      name: "clicked",
+      label: { en: "Clickety-clack" },
+    },
+  ],
 };
